@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://acidic-whistle-f8d.notion.site/d58b63dd8e274e2fa9f580c1f85005e5?pvs=4)]
-![kkchans](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://acidic-whistle-f8d.notion.site/d58b63dd8e274e2fa9f580c1f85005e5?pvs=4/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 <!--
 **kkchanss/kkchanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
