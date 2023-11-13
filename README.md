@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Portfolio][[(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![kkchans](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <!--
 **kkchanss/kkchanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
