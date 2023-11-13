@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://acidic-whistle-f8d.notion.site/d58b63dd8e274e2fa9f580c1f85005e5?pvs=4/"> <img src="https://img.shields.io/badge/Portflio-000000?style=flat&logo=notion&logoColor=white" /> </a>
+<a href="https://acidic-whistle-f8d.notion.site/d58b63dd8e274e2fa9f580c1f85005e5?pvs=4"> <img src="https://img.shields.io/badge/Portflio-000000?style=flat&logo=notion&logoColor=white" /> </a>
 
 <!--
 **kkchanss/kkchanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
